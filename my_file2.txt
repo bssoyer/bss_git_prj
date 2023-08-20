@@ -1,2 +1,2 @@
 1. This is a single sentence file.
-2. This is the second sentence in this file.
+2. Now this file contains a second sentence in this file.

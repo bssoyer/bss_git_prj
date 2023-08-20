@@ -1,1 +1,1 @@
-1. This is a single sentence file.
+1. This is the only sentence in the file.
